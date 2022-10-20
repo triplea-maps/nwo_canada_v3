@@ -1,0 +1,4 @@
+map_name: nwo_canada_v3
+games:
+- {game_name: NWO CANADA 1939, file_name: NWO_Canada_V3.xml}
+version: 0
